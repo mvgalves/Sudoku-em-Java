@@ -18,7 +18,7 @@ Execute o jogo:
 
 bash
 
-java Main
+SudokuUI.Java
 
 
 ### Siga as instruções do menu para jogar!
@@ -45,6 +45,8 @@ Destaque: Clique em uma célula para realçar sua linha, coluna e bloco correspo
 
 ## 🛠 Tecnologias utilizadas
 Java 17  
+
+Java Swing (GUI)  
 
 POO (Programação Orientada a Objetos)  
 
