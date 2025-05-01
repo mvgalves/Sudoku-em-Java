@@ -37,17 +37,18 @@ Selecione uma das opções a seguir:
 7- Finalizar jogo  
 8- Sair  
 
-### Explicação das opções:
+### Explicação das opções:   
 
-Nº	Opção	Descrição
-1	Iniciar um novo Jogo	Carrega um novo tabuleiro com posições fixas pré-definidas.
-2	Colocar um novo número	Permite inserir um número em uma célula vazia (não fixa).
-3	Remover um número	Remove um número que foi inserido pelo jogador.
-4	Visualizar jogo atual	Mostra o estado atual do tabuleiro.
-5	Verificar status do jogo	Verifica se o tabuleiro está completo e correto.
-6	Limpar jogo	Reseta o tabuleiro, mantendo apenas as posições fixas.
-7	Finalizar jogo	Tenta finalizar o jogo e verifica se o Sudoku foi resolvido corretamente.
-8	Sair	Encerra o programa.
+Nº	Opção	Descrição   
+1	Iniciar um novo Jogo	Carrega um novo tabuleiro com posições fixas pré-definidas.   
+2	Colocar um novo número	Permite inserir um número em uma célula vazia (não fixa).   
+3	Remover um número	Remove um número que foi inserido pelo jogador.   
+4	Visualizar jogo atual	Mostra o estado atual do tabuleiro.   
+5	Verificar status do jogo	Verifica se o tabuleiro está completo e correto.   
+6	Limpar jogo	Reseta o tabuleiro, mantendo apenas as posições fixas.  
+7	Finalizar jogo	Tenta finalizar o jogo e verifica se o Sudoku foi resolvido corretamente.  
+8	Sair	Encerra o programa.  
+
 ## 🛠 Tecnologias utilizadas
 Java 17
 
