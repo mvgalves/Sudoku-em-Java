@@ -1,7 +1,7 @@
 # 🧩 Sudoku em Java
 ## Descrição
 
-Este é um projeto de Sudoku desenvolvido em Java 17, utilizando conceitos de Programação Orientada a Objetos (POO).
+Este é um projeto de Sudoku desenvolvido em Java 17, utilizando conceitos de Programação Orientada a Objetos (POO).  
 O objetivo é simular a experiência do jogo Sudoku no terminal, com um sistema de menu interativo e validação de jogadas.
 
 ### 🚀 Como executar
@@ -50,12 +50,12 @@ Nº	Opção	Descrição
 8	Sair	Encerra o programa.  
 
 ## 🛠 Tecnologias utilizadas
-Java 17
+Java 17  
 
-POO (Programação Orientada a Objetos)
+POO (Programação Orientada a Objetos)  
 
 Terminal / Console para interação
 
 ## 👨‍💻 Autor
-Projeto desenvolvido por Marcus Vinicius Garcia Alves 🎨👨‍💻
+Projeto desenvolvido por Marcus Vinicius Garcia Alves 🎨👨‍💻  
 Se quiser melhorar o jogo ou sugerir algo, fique à vontade para contribuir!
