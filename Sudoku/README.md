@@ -28,14 +28,14 @@ Ao iniciar o jogo, você verá o seguinte menu:
 
 
 Selecione uma das opções a seguir:
-1- Iniciar um novo Jogo
-2- Colocar um novo número
-3- Remover um número
-4- Visualizar jogo atual
-5- Verificar status do jogo
-6- Limpar jogo
-7- Finalizar jogo
-8- Sair
+1- Iniciar um novo Jogo   
+2- Colocar um novo número   
+3- Remover um número   
+4- Visualizar jogo atual   
+5- Verificar status do jogo   
+6- Limpar jogo   
+7- Finalizar jogo  
+8- Sair  
 
 ### Explicação das opções:
 
@@ -56,9 +56,5 @@ POO (Programação Orientada a Objetos)
 Terminal / Console para interação
 
 ## 👨‍💻 Autor
-Projeto desenvolvido por [Seu Nome Aqui] 🎨👨‍💻
+Projeto desenvolvido por Marcus Vinicius Garcia Alves 🎨👨‍💻
 Se quiser melhorar o jogo ou sugerir algo, fique à vontade para contribuir!
-
-## 📄 Licença
-Este projeto está sob a licença MIT.
-Sinta-se livre para usar, modificar e distribuir!
