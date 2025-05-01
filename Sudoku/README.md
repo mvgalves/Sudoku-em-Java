@@ -2,7 +2,7 @@
 ## Descrição
 
 Este é um projeto de Sudoku desenvolvido em Java 17, utilizando conceitos de Programação Orientada a Objetos (POO).  
-O objetivo é simular a experiência do jogo Sudoku no terminal, com um sistema de menu interativo e validação de jogadas.
+
 
 ### 🚀 Como executar
 
