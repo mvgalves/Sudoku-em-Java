@@ -27,7 +27,7 @@ java Main
 Ao iniciar o jogo, você verá o seguinte menu:
 
 
-Selecione uma das opções a seguir:
+Selecione uma das opções a seguir:   
 1- Iniciar um novo Jogo   
 2- Colocar um novo número   
 3- Remover um número   
