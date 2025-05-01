@@ -62,8 +62,23 @@ public class Main {
 
     private static void startGame() {
         List<List<Space>> spaces = new ArrayList<>();
-        int[][] template = SudokuBoards.EASY_BOARD; // Usa o novo Sudoku padrão
-
+    
+        System.out.println("Escolha a dificuldade:");
+        System.out.println("1- Fácil");
+        System.out.println("2- Médio");
+        System.out.println("3- Difícil");
+    
+        int option = runUntilGetValidNumber(1, 3);
+        int[][] template;
+    
+        if (option == 1) {
+            template = SudokuBoards.EASY_BOARD;
+        } else if (option == 2) {
+            template = SudokuBoards.MEDIUM_BOARD;
+        } else {
+            template = SudokuBoards.HARD_BOARD;
+        }
+    
         for (int i = 0; i < BOARD_LIMIT; i++) {
             List<Space> row = new ArrayList<>();
             for (int j = 0; j < BOARD_LIMIT; j++) {
@@ -73,10 +88,12 @@ public class Main {
             }
             spaces.add(row);
         }
-
+    
         board = new Board(spaces);
-        System.out.println("O jogo foi iniciado com o tabuleiro padrão!");
+        System.out.println("O jogo foi iniciado com o tabuleiro " + 
+            (option == 1 ? "fácil" : option == 2 ? "médio" : "difícil") + "!");
     }
+    
 
     private static void inputNumber() {
         if (isBoardNull()) return;
